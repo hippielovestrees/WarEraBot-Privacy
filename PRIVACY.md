@@ -11,9 +11,9 @@ WarEraBot is operated by HippieLovesTrees. This policy covers WarEraBot’s regi
 
 We use this information to verify accounts, manage access and roles, and operate and troubleshoot the bot. Where UK data protection law applies, our legitimate interests are running the server’s verification and access controls and maintaining the bot. Partner sharing requires your separate choice.
 
-## Optional sharing with Tommybot
+## Optional sharing with WarEra UK
 
-If the Tommybot connection is enabled and your WarEra profile shows UK citizenship, you can choose to let Tommybot look up the WarEra player ID linked to your Discord account. This lets Tommybot recognise your registration for commands such as `/me` without a second registration. Sharing starts off. Choose **Share with Tommybot** to enable it or use `/connections` to stop future lookups. Tommybot is operated separately. If you ask us to delete data we shared with Tommybot, we will coordinate with its operator about any copies they may hold.
+If the WarEra UK connection is enabled and your WarEra profile shows UK citizenship, you can choose to let WarEra UK look up the WarEra player ID linked to your Discord account. This lets WarEra UK recognise your registration for commands such as `/me` without a second registration. Sharing starts off. Choose **Share with WarEra UK** to enable it or use `/connections` to stop future lookups. WarEra UK is operated separately. If you ask us to delete data we shared with WarEra UK, we will coordinate with its operator about any copies they may hold.
 
 ## Unlinking, leaving and deleting data
 
@@ -31,4 +31,4 @@ If you've left the server and Discord won't deliver your message, you can join t
 
 If UK data protection law applies, you can also [raise a concern with the Information Commissioner’s Office](https://ico.org.uk/make-a-complaint/).
 
-Last updated 16 November 2026.
+Last updated 18 November 2026.
